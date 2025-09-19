@@ -10,7 +10,7 @@
 
 ## 🎯 Aperçu du Projet
 
-Ce projet présente un **tableau de bord interactif** d'analyse des parcours patients, développé spécifiquement pour démontrer les compétences requises pour le poste d'**Alternant Data Analyst** chez **GIP SESAN**.
+Ce projet présente un **tableau de bord interactif** d'analyse des parcours patients, développé spécifiquement pour démontrer les compétences requises pour le poste d'**Alternant Data Analyst** 
 
 ### 🌟 Fonctionnalités Principales
 
