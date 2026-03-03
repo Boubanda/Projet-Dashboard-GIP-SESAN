@@ -470,8 +470,4 @@ Ce projet démontre **exactement les compétences recherchées** par GIP SESAN :
 
 **L'objectif n'est pas la perfection, mais la démonstration du potentiel** à contribuer immédiatement aux missions de transformation numérique de la santé francilienne.
 
----
 
-**🚀 Prêt pour l'entretien ? Bonne chance chez GIP SESAN !**
-
-*Projet développé avec passion pour l'innovation en santé numérique* 🏥💻
